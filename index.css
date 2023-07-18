@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://th.bing.com/th/id/R.30a9020a939a6a8b839328e84d4f554b?rik=%2bqmUa34XGMfLvw&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fe%2fe6%2fMasked_Lovebird_(Agapornis_personata)_-Auckland_Zoo.jpg&ehk=yBrHhRtqLpJjyPKqnqtK47O04WK7v5ZgBFjQt6NCcmY%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+     display: flex;
+    align-items: bottom;
+}
+.container {
+    
+    max-width: 80%;
+    margin: auto;
+    
+    border-radius: 10px;
+}
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin:5px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 10px;
+    border-radius: 18px;
+    ;
+}
+
+#increment-btn {
+    background: red;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
